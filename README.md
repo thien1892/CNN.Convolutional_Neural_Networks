@@ -1,8 +1,8 @@
 # CNN_Convolutional_Neural_Networks
 ## Tổng quan về CNN
-1. [Tổng quan về CNN](https://github.com/thien1892/CNN_Convolutional_Neural_Networks/blob/main/Tong_quan_CNN.md)  
-2. [Bài tập thực hành nhận diện chữ số viết tay mnist_cnn](https://github.com/thien1892/CNN_Convolutional_Neural_Networks/blob/main/mnist_cnn.ipynb)   
-3. [Bài tập thực hành nhận diện ký hiệu số từ bàn tay](https://github.com/thien1892/CNN_Convolutional_Neural_Networks/blob/main/signs_cnn.ipynb)  
+1. [Tổng quan về CNN](https://github.com/thien1892/CNN.Convolutional_Neural_Networks/blob/main/Tong_quan_CNN.md)  
+2. [Bài tập thực hành nhận diện chữ số viết tay mnist_cnn](https://github.com/thien1892/CNN.Convolutional_Neural_Networks/blob/main/mnist_cnn.ipynb)   
+3. [Bài tập thực hành nhận diện ký hiệu số từ bàn tay](https://github.com/thien1892/CNN.Convolutional_Neural_Networks/blob/main/signs_cnn.ipynb)  
 
 ## Các mô hình CNN:
 ### 1. Mô hình cơ bản:  
@@ -68,7 +68,7 @@
     - "We need to go deeper!", inception lấy cảm hứng từ câu thoại trong phim inception!!! Chúng ta nên đi sâu hơn!!! (miễn là đừng để quá khớp)
 
 ### 4. Thực hành:  
-- Thực hành Data Sign với mô hình Resnet50:
+- [Thực hành Data Sign với mô hình Resnet50](https://github.com/thien1892/CNN.Convolutional_Neural_Networks/blob/main/sign_resnet50.ipynb):
     - Dowload Model [ResNet50.h5](https://drive.google.com/file/d/189RVfM-u_pV7nOwQ1wEKtuOT8oz2A5uM/view?usp=sharing)
 
 
