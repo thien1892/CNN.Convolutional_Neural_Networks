@@ -64,7 +64,7 @@
     <img src = 'https://i.imgur.com/tR9eews.jpg'>
 - [Inception Network](https://arxiv.org/pdf/1409.4842.pdf):
     <img src ='https://i.imgur.com/ehN6NVr.jpg'>
-    - Mạng Inception ở các layer trung gian cũng giúp chúng ta kích hoạt output, việc thử các kích hoạt này đảm bảo mô hình overfitting.
+    - Mạng Inception ở các layer trung gian cũng giúp chúng ta kích hoạt output, việc thử các kích hoạt này đảm bảo mô hình không overfitting.
     - "We need to go deeper!", inception lấy cảm hứng từ câu thoại trong phim inception!!! Chúng ta nên đi sâu hơn!!! (miễn là đừng để quá khớp)
 
 ### 4. Thực hành:  
